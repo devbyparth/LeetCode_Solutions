@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
