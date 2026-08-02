@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
