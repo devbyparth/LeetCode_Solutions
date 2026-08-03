@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
