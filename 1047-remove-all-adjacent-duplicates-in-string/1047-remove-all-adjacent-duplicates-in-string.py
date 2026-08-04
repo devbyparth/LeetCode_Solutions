@@ -1,14 +1,12 @@
 class Solution(object):
     def removeDuplicates(self, s):
 
-        temp = list([s[0],])
+        stack = []
 
-        for i in range(1, len(s)):
-            if not temp:
-                temp.append(s[i])
-            elif s[i] == temp[-1]:
-                temp.pop(-1)
+        for char in s:
+            if stack and stack[-1] == char:
+                stack.pop()
             else:
-                temp.append(s[i])
+                stack.append(char)
 
-        return ''.join(temp)
+        return ''.join(stack)
