@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -152,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
