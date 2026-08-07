@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0520-detect-capital) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
