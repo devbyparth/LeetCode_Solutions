@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
