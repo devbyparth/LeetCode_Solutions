@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
