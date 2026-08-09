@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Bit Manipulation
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Binary Search
 |  |
