@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
