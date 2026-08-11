@@ -1,4 +1,6 @@
 from collections import Counter
+from math import ceil
+
 
 class Solution(object):
     def minimumRounds(self, tasks):
@@ -9,6 +11,8 @@ class Solution(object):
         for v in freqMap.values():
             if v == 1:
                 return -1
-            rounds += -(-v // 3)
-
+            if v % 3 == 0:
+                rounds += v // 3
+            else:
+                rounds += (v // 3) + 1
         return rounds
