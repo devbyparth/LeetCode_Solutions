@@ -1,11 +1,19 @@
 class Solution(object):
     def maximumProduct(self, nums):
-         nums.sort(reverse=True)
-         
-         n1=nums[0]*nums[1]*nums[2]        
-         
-         l=len(nums)
-         
-         n2=nums[l-1]*nums[l-2]*nums[0]
-         
-         return n1 if n1 >= n2 else n2
+        max1 = max2 = max3 = float('-inf')
+        min1 = min2 = float('inf')
+
+        for num in nums:
+            if num >= max1:
+                max3, max2, max1 = max2, max1, num
+            elif num >= max2:
+                max3, max2 = max2, num
+            elif num >= max3:
+                max3 = num
+
+            if num <= min1:
+                min2, min1 = min1, num
+            elif num <= min2:
+                min2 = num
+
+        return max(max1 * max2 * max3, min1 * min2 * max1)
