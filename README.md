@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
