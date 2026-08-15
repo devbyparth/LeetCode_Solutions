@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
