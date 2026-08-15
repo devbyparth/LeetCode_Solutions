@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1920-build-array-from-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
