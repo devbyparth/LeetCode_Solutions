@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
