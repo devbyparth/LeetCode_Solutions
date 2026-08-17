@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -451,10 +454,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 ## Sliding Window
 |  |
