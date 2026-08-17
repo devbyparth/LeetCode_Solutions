@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
 |  |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
