@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
