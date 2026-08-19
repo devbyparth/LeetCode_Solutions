@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1672-richest-customer-wealth](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
@@ -514,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
