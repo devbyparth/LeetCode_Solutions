@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1436-destination-city) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bucket Sort
 |  |
 | ------- |
