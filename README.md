@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Bucket Sort
 |  |
 | ------- |
