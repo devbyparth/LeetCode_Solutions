@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
