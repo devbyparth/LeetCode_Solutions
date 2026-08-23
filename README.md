@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0896-monotonic-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Trie
