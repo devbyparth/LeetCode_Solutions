@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
