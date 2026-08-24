@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0454-4sum-ii) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Heap (Priority Queue)
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
