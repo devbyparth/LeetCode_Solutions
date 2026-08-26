@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2352-equal-row-and-column-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Trie
 |  |
 | ------- |
