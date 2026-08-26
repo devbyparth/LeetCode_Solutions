@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2439-minimize-maximum-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Trie
 |  |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Union-Find
 |  |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Quicksort
 |  |
