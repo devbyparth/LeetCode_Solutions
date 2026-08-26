@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1920-build-array-from-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Trie
 |  |
 | ------- |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Union-Find
 |  |
