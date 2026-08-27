@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0833-find-and-replace-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0896-monotonic-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
+| [0833-find-and-replace-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0904-fruit-into-baskets](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
+| [0833-find-and-replace-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0833-find-and-replace-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1002-find-common-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
