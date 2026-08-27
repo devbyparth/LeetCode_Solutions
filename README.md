@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0896-monotonic-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
