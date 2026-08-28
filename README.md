@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0833-find-and-replace-in-string) |
+| [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
