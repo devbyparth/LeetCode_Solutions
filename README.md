@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Pigeonhole Principle
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Geometry
