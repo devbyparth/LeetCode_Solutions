@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0415-add-strings) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
