@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
