@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1332-remove-palindromic-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2109-adding-spaces-to-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
