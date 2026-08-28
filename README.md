@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Two Pointers
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
