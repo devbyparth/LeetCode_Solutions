@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
