@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
