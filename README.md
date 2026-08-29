@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0528-random-pick-with-weight) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
@@ -837,4 +839,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
