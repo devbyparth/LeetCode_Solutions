@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0528-random-pick-with-weight) |
+| [0556-next-greater-element-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0989-add-to-array-form-of-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
