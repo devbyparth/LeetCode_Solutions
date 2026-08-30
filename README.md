@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0726-number-of-atoms](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
 | [0771-jewels-and-stones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0726-number-of-atoms](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0709-to-lower-case) |
+| [0726-number-of-atoms](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
 | [0771-jewels-and-stones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0796-rotate-string) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0726-number-of-atoms](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
