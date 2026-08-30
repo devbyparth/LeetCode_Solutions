@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0392-is-subsequence) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0385-mini-parser](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
@@ -939,4 +941,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
+## Depth-First Search
+|  |
+| ------- |
+| [0385-mini-parser](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0385-mini-parser) |
 <!---LeetCode Topics End-->
