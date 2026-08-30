@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -888,4 +892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
