@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2439-minimize-maximum-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
+| [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
 ## String
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
 ## Trie
 |  |
 | ------- |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
 ## Stack
 |  |
 | ------- |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -889,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
 ## Data Stream
 |  |
 | ------- |
