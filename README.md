@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
