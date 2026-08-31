@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
