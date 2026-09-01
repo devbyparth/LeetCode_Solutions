@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 ## String Matching
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0385-mini-parser](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
