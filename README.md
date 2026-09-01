@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2235-add-two-integers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Bit Manipulation
 |  |
