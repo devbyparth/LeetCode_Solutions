@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
