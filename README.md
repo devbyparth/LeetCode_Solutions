@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2418-sort-the-people) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
 |  |
 | ------- |
