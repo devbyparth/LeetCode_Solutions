@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0779-k-th-symbol-in-grammar](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Recursion
 |  |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## String Matching
 |  |
 | ------- |
