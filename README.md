@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0441-arranging-coins) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Counting
 |  |
@@ -1002,4 +1004,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
