@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Algorithm X
 |  |
 | ------- |
