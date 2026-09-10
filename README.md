@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 | [0726-number-of-atoms](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
 | [0771-jewels-and-stones](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Recursion
 |  |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0784-letter-case-permutation) |
 ## Algorithm X
 |  |
 | ------- |
