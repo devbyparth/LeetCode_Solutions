@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1695-maximum-erasure-value) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1219-path-with-maximum-gold](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1219-path-with-maximum-gold) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Algorithm X
 |  |
 | ------- |
