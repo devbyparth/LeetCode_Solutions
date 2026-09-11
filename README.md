@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0306-additive-number) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0372-super-pow) |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0494-target-sum) |
