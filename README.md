@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1859-sorting-the-sentence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1219-path-with-maximum-gold](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Algorithm X
 |  |
 | ------- |
