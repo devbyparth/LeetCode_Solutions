@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0679-24-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0784-letter-case-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1219-path-with-maximum-gold](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1219-path-with-maximum-gold) |
