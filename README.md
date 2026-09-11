@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1122-relative-sort-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1219-path-with-maximum-gold](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1219-path-with-maximum-gold](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1672-richest-customer-wealth](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1219-path-with-maximum-gold](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1219-path-with-maximum-gold) |
 ## Algorithm X
 |  |
 | ------- |
