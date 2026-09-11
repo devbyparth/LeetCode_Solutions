@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1068,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0784-letter-case-permutation) |
