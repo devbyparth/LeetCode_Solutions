@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
+| [0127-word-ladder](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -1131,5 +1133,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0967-numbers-with-same-consecutive-differences) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
