@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1859-sorting-the-sentence) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0969-pancake-sorting](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0969-pancake-sorting) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
