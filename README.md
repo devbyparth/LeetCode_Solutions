@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3524-find-x-value-of-array-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2439-minimize-maximum-of-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [3524-find-x-value-of-array-i](https://github.com/devbyparth/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
