@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
