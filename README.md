@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0289-game-of-life) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0385-mini-parser](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0385-mini-parser) |
 ## Memoization
 |  |
@@ -1113,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/devbyparth/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
