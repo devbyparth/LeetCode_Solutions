@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2454-next-greater-element-iv](https://github.com/devbyparth/LeetCode_Solutions/tree/master/2454-next-greater-element-iv) |
@@ -1177,4 +1179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devbyparth/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
